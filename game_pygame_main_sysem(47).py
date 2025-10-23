@@ -1,4 +1,4 @@
-import math, random, pygame
+ import math, random, pygame
 from pygame.locals import *
 
 # ==== Embedded background (from backround.py) ====
